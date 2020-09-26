@@ -1,0 +1,17 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : Hi
+bot : - Hello. How are you feeling today?
+user : not well
+bot : - Okay. Should I book appointment for you?
+user : yes
+bot : - Okay, kindly provide me with your personal details in the following format: Patient name: Contact number: Date and Time: Doctor's Name: Hospital Name:
+user : Patient name: Yash  Contact number:8473252742 Date and Time: 5th October,2020 and 5:30pm  Doctor's name: Neeraj Singh  Hospital Name: PGI
+bot : - - Thank you for availing our services. We have booked your appointment. Get well soon.
+user : Hi
+bot : - Hello. How are you feeling today?
+user : not well
+bot : - Okay. Should I book appointment for you?
+user : yes
+bot : - Okay, kindly provide me with your personal details in the following format: Patient name: Contact number: Date and Time: Doctor's Name: Hospital Name:
+user : Patient name: Yash  Contact number:8473252742 Date and Time: 5th October,2020 and 5:30pm  Doctor's name: Neeraj Singh  Hospital Name: PGI
+bot : - - Thank you for availing our services. We have booked your appointment. Get well soon.
