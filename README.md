@@ -5,4 +5,4 @@ In the current pandemic situation standing in the queues for registration, getti
 
 ![demag](https://user-images.githubusercontent.com/67858387/94367171-864dc600-00fa-11eb-8538-8292f78400b8.jpeg)
 
-<img width="1434" alt="4" src="https://user-images.githubusercontent.com/67858387/94367207-d4fb6000-00fa-11eb-916f-1b16f97bd4b2.png">
+<img width="1437" alt="1" src="https://user-images.githubusercontent.com/67858387/94367306-6cf94980-00fb-11eb-826a-8c2a3af6e096.png">
